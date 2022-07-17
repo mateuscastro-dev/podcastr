@@ -1,3 +1,3 @@
 export default function Home() {
-  return <h1>Podcastr</h1>
+  return <h1>podcastr</h1>
 }
